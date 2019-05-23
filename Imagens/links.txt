@@ -1,0 +1,3 @@
+http://web.tecnico.ulisboa.pt/ana.freitas/bioinformatics.ath.cx/bioinformatics.ath.cx/indexf23d.html?id=199 -> arvore de decisao 23/05/2019.
+https://aimlsite.wordpress.com/2018/01/05/k-vizinhos-mais-proximos-algoritmo-de-classificacao/ -> KNN 23/05/2019.
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-17592008000100009 -> redes neurais
