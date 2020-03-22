@@ -1,0 +1,26 @@
+Fila 1;Fila 2;Delta Fila 1;Delta Fila 1 (%);Delta Fila 2;Delta Fila 2 (%);Estado Semaforo 1;Estado Semaforo 2
+0;0;0;0.0;0;0.0;Verde;Vermelho
+0;6;0;0.0;6;100.0;Amarelo;Vermelho
+0;13;0;0.0;7;116.67;Vermelho;Verde
+10;12;10;100.0;-1;-7.69;Vermelho;Amarelo
+13;4;3;30.0;-8;-66.67;Verde;Vermelho
+13;8;0;0.0;4;100.0;Amarelo;Vermelho
+10;8;-3;-23.08;0;0.0;Vermelho;Verde
+15;6;5;50.0;-2;-25.0;Vermelho;Amarelo
+19;6;4;26.67;0;0.0;Verde;Vermelho
+18;8;-1;-5.26;2;33.33;Amarelo;Vermelho
+16;9;-2;-11.11;1;12.5;Vermelho;Verde
+26;9;10;62.5;0;0.0;Vermelho;Amarelo
+29;0;3;11.54;-9;-100.0;Verde;Vermelho
+25;3;-4;-13.79;3;100.0;Amarelo;Vermelho
+24;12;-1;-4.0;9;300.0;Vermelho;Verde
+31;7;7;29.17;-5;-41.67;Vermelho;Amarelo
+35;3;4;12.9;-4;-57.14;Verde;Vermelho
+30;4;-5;-14.29;1;33.33;Amarelo;Vermelho
+25;11;-5;-16.67;7;175.0;Vermelho;Verde
+26;4;1;4.0;-7;-63.64;Vermelho;Amarelo
+29;3;3;11.54;-1;-25.0;Verde;Vermelho
+27;10;-2;-6.9;7;233.33;Amarelo;Vermelho
+25;19;-2;-7.41;9;90.0;Vermelho;Verde
+33;18;8;32.0;-1;-5.26;Vermelho;Amarelo
+35;8;2;6.06;-10;-55.56;Verde;Vermelho
