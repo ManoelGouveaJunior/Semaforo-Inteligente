@@ -1,8 +1,16 @@
 import os
 import time
+import numpy as np
 from datetime import date
 from random import randint as rand
 
+class Q_Learning()
+    def __init__:
+        ACOES = [0,1,2] # 0 = Sem acao, 1 = Diminuir timer, 2 = Aumentar Timer
+        TAM_ESPACO_OBS = [3,3]
+
+        q_table = np.random.uniform (low=-1, high=0, size=(TAM_ESPACO_OBS + [len(ACOES)]))
+        
 class Semaforo():
     def __init__(self):
 
